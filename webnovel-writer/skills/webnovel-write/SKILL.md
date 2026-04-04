@@ -1,6 +1,6 @@
 ---
 name: webnovel-write
-description: Writes webnovel chapters (default 2000-2500 words). Use when the user asks to write a chapter or runs /webnovel-write. Runs context, drafting, review, polish, and data extraction.
+description: 撰写网络小说章节（默认2000-2500字）。当用户要求撰写章节或运行 /webnovel-write 时使用。执行上下文获取、草稿撰写、审核、打磨润色及数据提取流程。
 allowed-tools: Read Write Edit Grep Bash Task
 ---
 
