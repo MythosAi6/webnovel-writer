@@ -1,6 +1,6 @@
 ---
 name: webnovel-query
-description: Queries project settings for characters, powers, factions, items, and foreshadowing. Supports urgency analysis and golden finger status. Activates when user asks about story elements or /webnovel-query.
+description: 查询项目设置中的角色、能力、派系、物品及伏笔信息。支持紧迫性分析和金手指状态。当用户询问故事元素或相关设定时激活 /webnovel-query。
 allowed-tools: Read Grep Bash AskUserQuestion
 ---
 
