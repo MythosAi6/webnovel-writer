@@ -1,6 +1,6 @@
 ---
 name: webnovel-plan
-description: Builds volume and chapter outlines from the total outline, inherits creative constraints, and prepares writing-ready chapter plans. Use when the user asks for outlining or runs /webnovel-plan.
+description: 从总大纲构建分卷和章节大纲，继承创作约束，并准备可供写作的章节计划。当用户要求进行大纲规划或运行时使用/webnovel-plan。
 ---
 
 # Outline Planning
