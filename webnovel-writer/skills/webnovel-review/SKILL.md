@@ -1,6 +1,6 @@
 ---
 name: webnovel-review
-description: Reviews chapter quality with checker agents and generates reports. Use when the user asks for a chapter review or runs /webnovel-review.
+description: 使用检查代理审核章节质量并生成报告。当用户要求章节审核或运行时使用 /webnovel-review。
 allowed-tools: Read Grep Write Edit Bash Task AskUserQuestion
 ---
 
